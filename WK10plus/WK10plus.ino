@@ -109,7 +109,7 @@ void loop(){
       b="非常不健康";
     }
     else {
-      a="%e5%8d%b1%e5%ae%b3%e5%8d%b1%e5%ae%b3";
+      a="%e5%8d%b1%e5%ae%b3";
       b="危害";
     }
     Serial.print("對健康影響: ");Serial.print(b);
